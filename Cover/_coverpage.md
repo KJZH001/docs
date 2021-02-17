@@ -1,4 +1,3 @@
-# Let us start!
 <div align="center">
   
   <img src="https://icdn.7t5j.cn/2020/10/04/bf4d144536c29.png" alt="樱夜天惠" title="made-with-pug.png" width="10%" />
