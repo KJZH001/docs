@@ -1,16 +1,16 @@
 <div align="center">
   
-  <img src="https://icdn.7t5j.cn/2020/10/04/bf4d144536c29.png" alt="樱夜天惠" title="made-with-pug.png" width="10%" />
+  <img src="https://icdn.7t5j.cn/2020/10/04/bf4d144536c29.png" alt="樱夜天惠" title="made-with-pug.png" width="15%" />
   &ensp;
-  <img src="https://icdn.7t5j.cn/2020/10/04/e399c383648ab.png" alt="空梦logo" title="cc-nc-sa.png" width="18%" />
+  <img src="https://icdn.7t5j.cn/2020/10/04/e399c383648ab.png" alt="空梦logo" title="cc-nc-sa.png" width="27%" />
   <br>
   <br>
    
-<img src="https://icdn.7t5j.cn/2020/09/12/3b7a4d0cc69de.png" alt="made-with-pug.png" title="made-with-pug.png" width="10%" />
+<img src="https://icdn.7t5j.cn/2020/09/12/3b7a4d0cc69de.png" alt="made-with-pug.png" title="made-with-pug.png" width="15%" />
 &ensp;
-<img src="https://icdn.7t5j.cn/2020/09/12/a6f794a42dcb7.png" alt="cc-nc-sa.png" title="cc-nc-sa.png" width="18%" />
+<img src="https://icdn.7t5j.cn/2020/09/12/a6f794a42dcb7.png" alt="cc-nc-sa.png" title="cc-nc-sa.png" width="27%" />
 &ensp;
-<img src="https://icdn.7t5j.cn/2020/09/12/652c75d23133c.png" alt="chat.png" title="chat.png" width="10%" />
+<img src="https://icdn.7t5j.cn/2020/09/12/652c75d23133c.png" alt="chat.png" title="chat.png" width="15%" />
 
 <br>
 
