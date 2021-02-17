@@ -13,8 +13,7 @@
 &ensp;
 <img src="https://icdn.7t5j.cn/2020/09/12/652c75d23133c.png" alt="chat.png" title="chat.png" width="10%" />
 
-   
----
+<br>
 
 <p>全开源 轻量级 响应式</p>
 <h3>†</h3>
