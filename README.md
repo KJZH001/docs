@@ -1,3 +1,6 @@
+> 是时候开启下一站的旅程了！<br>
+> [KJZH001/MoeWorld](https://github.com/KJZH001/MoeWorld) 这可是一场无尽的冒险之旅呢！<br>
+> By 晓空 2024.10.4 
 # Let us start!
 <div align="center">
   
